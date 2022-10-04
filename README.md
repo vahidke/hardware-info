@@ -1,2 +1,7 @@
-# cpuinfo
-Qt / QML app to display CPU info on Linux
+# Hardware-info
+Get CPU serial number and hard disk id in QT
+git pull
+mkdir build
+cd build
+cmake ..
+make
